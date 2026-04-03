@@ -73,12 +73,10 @@ EV-Energy-Management-MATLAB/
 
 ## 📷 Results
 ### 🔹 Simulink Model
-### 🔹 Simulink Model
 <p align="center">
   <img src="https://github.com/pavithramn425/EV-Energy-Management-MATLAB/raw/main/Simulink_Model.png" width="700"/>
 </p>
 ### 🔹 Output Dashboard
-### 🔹 Simulink Model
 <p align="center">
   <img src="https://github.com/pavithramn425/EV-Energy-Management-MATLAB/raw/main/Output_Dashboard.png" width="700"/>
 </p>
